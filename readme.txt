@@ -1,0 +1,1 @@
+This code implements a simple genetic algorithm to solve the knapsack problem.
